@@ -1,0 +1,10 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Consultancy coming soon</title>
+  <desc id="desc">A professional placeholder badge indicating consultancy section is coming soon.</desc>
+  <rect width="640" height="360" rx="24" fill="#F8FAFC"/>
+  <rect x="72" y="92" width="496" height="176" rx="20" fill="#E2E8F0"/>
+  <circle cx="152" cy="180" r="34" fill="#0F172A"/>
+  <path d="M152 162L160 176H144L152 162Z" fill="#F8FAFC"/>
+  <rect x="204" y="146" width="312" height="20" rx="10" fill="#94A3B8"/>
+  <rect x="204" y="182" width="180" height="16" rx="8" fill="#CBD5E1"/>
+</svg>
