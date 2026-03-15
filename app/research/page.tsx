@@ -4,7 +4,6 @@ import { ResearchCard } from '@/components/cards/research-card';
 import { EmptyState } from '@/components/ui/empty-state';
 import { researchAreas } from '@/content/research';
 import { buildPageMetadata } from '@/lib/seo';
-import { SourceAttribution } from '@/components/sections/source-attribution';
 
 export const metadata = buildPageMetadata({
   title: 'Research',
@@ -16,8 +15,6 @@ export default function ResearchPage() {
   return (
     <div className="space-y-10">
       <SectionHeading title="Research" description="Current research interests and active themes." />
-
-      <SourceAttribution label="University of Dar es Salaam — Alexander Kivaisi" href="https://www.udsm.ac.tz/alexander-kivaisi" />
 
       <PageSection
         id="research-areas-heading"
