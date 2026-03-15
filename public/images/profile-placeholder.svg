@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder portrait</title>
+  <desc id="desc">A neutral academic profile placeholder with initials.</desc>
+  <rect width="600" height="600" rx="24" fill="#E2E8F0"/>
+  <circle cx="300" cy="230" r="115" fill="#94A3B8"/>
+  <path d="M130 525C146 420 210 368 300 368C390 368 454 420 470 525" fill="#94A3B8"/>
+  <text x="300" y="560" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="36">Lecturer Profile</text>
+</svg>
